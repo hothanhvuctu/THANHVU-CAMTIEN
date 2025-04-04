@@ -2,3 +2,23 @@
   width: 1200px;
   margin: 0 auto;
 }
+@font-face {
+  font-family: "UXVlcRyaWFsLVJlZVsYXIudHRm";
+  src: url("https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/questrial-regular-20230618103319-qwd69.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "RJlYXRWaWJlcySZWdbGFyLnRZg";
+  src: url("https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/greatvibes-regular-20231009130949-dckjd.ttf")
+    format("truetype");
+}
+.name-a,
+.name-e {
+  font-family: RJlYXRWaWJlcySZWdbGFyLnRZg;
+  font-size: 22px;
+}
+.traitim-t {
+  background-image: url(https://w.ladicdn.com/s400x400/5e51ff6…/may-tinh-10111111111-20231009133927-cj_yy.png);
+  width: 80px;
+  height: 80px;
+}
