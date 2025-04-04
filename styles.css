@@ -26,11 +26,35 @@ body {
   font-family: RJlYXRWaWJlcySZWdbGFyLnRZg;
   font-size: 80px;
   color: #fff;
+  text-shadow: rgb(0, 0, 0) 1px 2px 3px;
 }
+.name-a {
+  position: relative;
+  top: 130px;
+  left: 10px;
+}
+.name-e {
+  top: 155px;
+  left: 85px;
+  position: relative;
+}
+
 .traitim-t {
-  background-image: url("https://w.ladicdn.com/s400x400/5e51ff6…/may-tinh-10111111111-20231009133927-cj_yy.png");
+  background-image: url("https://w.ladicdn.com/s400x400/5e51ff6161a254079fc6d2ed/may-tinh-10111111111-20231009133927-cj_yy.png");
   width: 80px;
   height: 80px;
   background-position: center;
   background-size: 100%;
+  position: relative;
+  top: 130px;
+  left: 170px;
+}
+.date-head {
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  text-shadow: rgb(0, 0, 0) 1px 2px 3px;
+  font-size: 22px;
+  position: relative;
+  top: 170px;
+  left: 80px;
 }
