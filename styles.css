@@ -90,9 +90,10 @@ body {
   display: grid;
   text-align: center;
   gap: 20px;
-  margin-top: 100px;
+  margin-top: 80px;
   border: 2px solid;
   padding: 40px 0;
+  border-radius: 24px;
 }
 
 .box-card span {
@@ -103,7 +104,7 @@ body {
   font-family: RJlYXRWaWJlcySZWdbGFyLnRZg;
   color: rgb(198, 48, 44);
   text-align: center;
-  font-size: 38px;
+  font-size: 45px;
 }
 .traitim-2 {
   background-image: url(https://w.ladicdn.com/s400x400/5e51ff6161a254079fc6d2ed/may-tinh-9111-20231009133927-br-wb.png);
@@ -116,4 +117,14 @@ body {
   display: flex;
   justify-content: center;
   gap: 20px;
+}
+.box-1 {
+  background-color: rgb(254, 228, 228);
+}
+
+.box-1-1 {
+  background-image: url(https://w.ladicdn.com/s700x1200/5e51ff6161a254079fc6d2ed/time-love-20231009123132--_3ff.png);
+}
+.box-2 {
+  background-image: url(https://w.ladicdn.com/s700x1200/5e51ff6161a254079fc6d2ed/time-love-20231009123132--_3ff.png);
 }
