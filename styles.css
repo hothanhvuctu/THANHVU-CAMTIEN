@@ -128,3 +128,20 @@ body {
 .box-2 {
   background-image: url(https://w.ladicdn.com/s700x1200/5e51ff6161a254079fc6d2ed/time-love-20231009123132--_3ff.png);
 }
+.chiase-codau {
+  display: flex;
+  padding: 40px 0;
+}
+.chiase-codau div {
+  width: calc(100% / 2);
+  text-align: center;
+  font-size: 22px;
+}
+.chiase-codau div img {
+  width: 50%;
+  height: 100%;
+}
+.info-chiase-codau {
+  display: grid;
+  align-content: center;
+}
