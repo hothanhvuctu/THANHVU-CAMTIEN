@@ -28,7 +28,7 @@ body {
   color: #fff;
 }
 .traitim-t {
-  background-image: url(https://w.ladicdn.com/s400x400/5e51ff6…/may-tinh-10111111111-20231009133927-cj_yy.png);
+  background-image: url("https://w.ladicdn.com/s400x400/5e51ff6…/may-tinh-10111111111-20231009133927-cj_yy.png");
   width: 80px;
   height: 80px;
   background-position: center;
