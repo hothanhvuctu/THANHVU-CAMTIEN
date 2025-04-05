@@ -145,3 +145,17 @@ body {
   display: grid;
   align-content: center;
 }
+.info-thonggia {
+  display: flex;
+  justify-content: center;
+  gap: 110px;
+}
+.info-thonggia p {
+  color: red;
+  font-weight: 600;
+  font-size: 20px;
+}
+.box-card.moi-box-3{
+  width: 800px;
+  justify-self: center;
+}
