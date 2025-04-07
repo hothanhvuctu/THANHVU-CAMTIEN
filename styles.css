@@ -466,7 +466,7 @@ span.text-cd {
     display: block;
   }
   .info1-box-5, .info2-box-5{
-    width: 90%;
+    width: auto;
   }
   .info-cuoi{
     font-size: 15px;
