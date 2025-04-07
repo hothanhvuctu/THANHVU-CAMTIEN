@@ -389,6 +389,9 @@ span.text-cd {
   text-align: right;
 }
 @media (max-width: 480px) {
+  html{
+    overflow: hidden;
+  }
   .container {
     width: 100%;
   }
