@@ -398,7 +398,7 @@ span.text-cd {
   }
   .name-a,
   .name-e {
-    font-size: 54px;
+    font-size: 45px;
     width: 50%;
   }
   .name-a {
@@ -409,13 +409,16 @@ span.text-cd {
     top: 395px;
   }
   .traitim-t {
-    top: 381px;
+    top: 380px;
     left: 100px;
+    width: 45px;
+    height: 45px;
   }
   .date-head {
     top: 395px;
-    left: 70px;
+    left: 60px;
     width: 80%;
+    font-size: 18px;
   }
   .container.info-box-1.info-box-1 {
     display: block;
