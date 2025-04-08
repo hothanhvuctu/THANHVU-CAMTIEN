@@ -149,6 +149,7 @@ body {
 .info-chiase-codau {
   display: grid;
   align-content: center;
+  background: #ffffff;
 }
 .info-thonggia {
   display: flex;
