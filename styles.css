@@ -399,6 +399,7 @@ span.text-cd {
   .name-a,
   .name-e {
     font-size: 54px;
+    width: 50%;
   }
   .name-a {
     top: 390px;
@@ -414,6 +415,7 @@ span.text-cd {
   .date-head {
     top: 395px;
     left: 70px;
+    width: 80%;
   }
   .container.info-box-1.info-box-1 {
     display: block;
@@ -440,35 +442,37 @@ span.text-cd {
   .chiase-codau div {
     width: 100%;
   }
-  span.text-cd, .text-cr {
+  span.text-cd,
+  .text-cr {
     text-align: center;
     font-size: 60px;
   }
   .box-2 {
     background: none;
   }
-  .chiase-codau div{
+  .chiase-codau div {
     font-size: 18px;
   }
-  .box-card.moi-box-3{
+  .box-card.moi-box-3 {
     width: 95%;
   }
-  .info-thonggia{
+  .info-thonggia {
     line-height: 18px;
   }
-  .info-thonggia span{
+  .info-thonggia span {
     font-size: 13px;
   }
-  .box-khoanh-khac div{
+  .box-khoanh-khac div {
     width: calc(100% / 2 - 10px);
   }
-  .info-box5{
+  .info-box5 {
     display: block;
   }
-  .info1-box-5, .info2-box-5{
+  .info1-box-5,
+  .info2-box-5 {
     width: auto;
   }
-  .info-cuoi{
+  .info-cuoi {
     font-size: 15px;
   }
 }
